@@ -48,4 +48,4 @@ $ git clone https://github.com/crackige/utopia
 
 $ cd utopia
 
-$ python utopia.py
+$ python mbf.py
