@@ -42,7 +42,7 @@ $ pip install bs4
 
 $ pip install futures
 
-$ git clone https://github.com/crackige/utopia
+$ git clone https://github.com/jangHubb/utopia
 
 # CARA MENJALANKAN
 
